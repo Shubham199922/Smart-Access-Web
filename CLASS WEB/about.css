@@ -1,0 +1,14 @@
+#about1{
+    border: 2px solid black;
+    height:150px;
+}
+
+*{
+    box-sizing: border-box;
+  
+  }
+  p{
+   
+    margin: auto
+    ;
+  }
